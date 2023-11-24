@@ -124,12 +124,12 @@ Once you log into the VM, open a Terminal window.
 Fork the repository to your Github account and clone the repository to the workspace using the commands below. 
 
 ```bash
-git clone https://github.com/udacity/nd013-c5-planning-starter.git
+git clone https://github.com/lexuansanh/nd013-c5-planning.git
 ```
 
 Change to the project directory.
 ```bash
-cd nd013-c5-planning-starter/project
+cd nd013-c5-planning/project
 ```
 
 <br/><br/>
